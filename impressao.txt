@@ -1,0 +1,15 @@
+Aluno: Daniel Victor da Costa Carneiro Salvador
+
+Desafio 2
+====================
+Para realizer uma impressão 3D, é necessário se utilizar de um software como o 
+Ultimaker CURA ou o PRUSA Slicer para preparar um arquivo .gcode através de um
+arquivo .stl. É preciso checar parâmetros como a densidade do preenchimento e
+e o tipo de suporte. Deve-se observar com cuidado o posicionamento dos objetos
+na mesa, de modo que não seja necessário colocar mais suporte do que é preciso,
+além de facilitar o processo para a impressora.
+
+No nosso caso, utilizamos uma impressora Creality Ender 3 e filamentos PLA.
+Era necessário configurar a impressão de modo que a extrusora obtivesse uma
+temperatura de 200°C e a mesa 60°C. Após a finalização, basta retirar a impressão
+da mesa com cuidado e limpar os suportes.

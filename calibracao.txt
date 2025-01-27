@@ -1,0 +1,13 @@
+Aluno: Daniel Victor da Costa Carneiro Salvador
+
+Desafio 1
+====================
+Para realizar a calibração da mesa da impressora 3D utilizada durante as aulas,
+basta se utilizar das válvulas embaixo da mesa para ajustar as molas que a suspendem.
+O objetivo é deixá-la nivelada e com altura ajustada em relação ao extrusor
+para que a impressão saia corretamente. É possível realizar um papel para medir a distância
+corretamente ou pode-ser fazer uma medição visual.
+
+É possível também utilizar extensões no Ultimaker CURA para imprimir objetos
+feitos especificamente para mensurar a calibração da mesa e os parâmetros postos
+para realizar uma impressão.
